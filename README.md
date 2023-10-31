@@ -31,5 +31,5 @@ git merge alien-plot
 Push to remote repository
 
 ```
-git push orgin main -u
+git push orgin main
 ```

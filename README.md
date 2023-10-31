@@ -22,6 +22,14 @@ git checkout alien-plot
 git checkout main
 ```
 
+Merge branch
+
 ```
 git merge alien-plot
+```
+
+Push to remote repository
+
+```
+git push orgin main -u
 ```

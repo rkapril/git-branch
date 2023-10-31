@@ -17,3 +17,7 @@ Change branch
 ```
 git checkout alien-plot
 ```
+
+```
+git checkout main
+```

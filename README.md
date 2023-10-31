@@ -12,6 +12,8 @@ Show branch
 git branch
 ```
 
+Change branch
+
 ```
 git checkout alien-plot
 ```

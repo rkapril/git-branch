@@ -21,3 +21,7 @@ git checkout alien-plot
 ```
 git checkout main
 ```
+
+```
+git merge alien-plot
+```
